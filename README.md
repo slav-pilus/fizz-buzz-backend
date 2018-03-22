@@ -1,5 +1,8 @@
 # FizzBuzz Rest server
 This application is a backend rest server to get result of FizzBuzz game
+
+<img src="https://circleci.com/gh/slavP/fizz-buzz-backend/tree/master.svg?style=shield&circle-token=b6dfe810ae9cef8650ae2000d941026ce8c491fe">
+
 # local build
 
 This project can be build locally with maven wrapper:
